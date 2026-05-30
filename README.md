@@ -108,38 +108,9 @@ Batting Avg = DIVIDE([Total Runs], [Total Innings Dismissed], 0)
 | All-Rounders | >15 | >140 | Bowling Economy <7, SR <20 |
 | Specialist Bowlers | — | — | Economy ≤7, Dot Ball % >40% |
 
----
-
-## 📈 Dashboard Previews
-
-### Power Hitters / Openers
-![Openers Dashboard](images/openers.png)
-
-### Combined Performance — Virat Kohli & Suryakumar Yadav (Anchor)
-![Anchor Performance](images/anchor.png)
-
-### Finishers
-![Finishers Dashboard](images/finishers.png)
-
-### All-Rounders
-![All-Rounders Dashboard](images/allrounders.png)
-
-### Specialist Fast Bowlers — Sam Curran & Shaheen Afridi
-![Fast Bowlers Dashboard](images/fastbowlers.png)
-
-### Final 11
-![Final 11](images/final11.png)
-
----
 
 ## 👥 Contributors
 
-| Name | Role |
-|---|---|
-| **Aaryan Purohit** | Contributor |
+Aaryan Purohit
 
----
 
-## 📄 License
-
-This project is open-source. Feel free to fork, star ⭐, and contribute!# crickett20-analyzer
